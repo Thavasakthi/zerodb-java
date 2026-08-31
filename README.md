@@ -1,6 +1,6 @@
 # ZeroDB — A Lightweight Dependency-Free Embedded Key-Value Database
 
-> **Tagline:** A lightweight, persistent, crash-recoverable key-value database built entirely from scratch using only the Java Standard Library.
+> **Tagline:** A lightweight, persistent, crash-recoverable embedded key-value database built from scratch using only Java 21 Standard Library.
 
 [![Java Version](https://img.shields.io/badge/Java-21-orange.svg)](https://jdk.java.net/21/)
 [![Dependencies](https://img.shields.io/badge/Dependencies-0-brightgreen.svg)](#hackathon-track-information)
