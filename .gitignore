@@ -1,0 +1,10 @@
+# ZeroDB Git Ignore Rules
+out/
+bin/
+*.jar
+*.db
+*.wal
+*.class
+.idea/
+.vscode/
+*.iml
